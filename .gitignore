@@ -8,3 +8,7 @@ release
 .idea
 .scratch
 tsconfig.*.tsbuildinfo
+tools/caddy/caddy.exe
+Caddyfile
+services.json
+logs/
